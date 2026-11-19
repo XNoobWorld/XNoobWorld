@@ -1,16 +1,13 @@
-## Hi there 👋
+### XNoobWorld — nice to meet you 👋
 
-<!--
-**XNoobWorld/XNoobWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Australia.
 
-Here are some ideas to get you started:
+- shipping small and often
+- happier in a terminal than in an IDE
+- reading docs more than books lately
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=XNoobWorld&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=XNoobWorld&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Docker-7aa2f7?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/JavaScript-7aa2f7?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Neovim-7aa2f7?style=for-the-badge&logoColor=white" alt="Neovim" />
